@@ -6,7 +6,7 @@ import { IoMdSend } from "react-icons/io";
 import { MdKeyboardArrowDown } from "react-icons/md";
 import ReactMarkdown from "react-markdown";
 import { Prism as SyntaxHighlighter } from "react-syntax-highlighter";
-import { oneDark } from "react-syntax-highlighter/dist/esm/styles/prism";
+import oneDark from "react-syntax-highlighter/dist/esm/styles/prism/one-dark";
 import { useAppContext } from "../lib/AppContext";
 import { FaRegCircleStop } from "react-icons/fa6";
 
